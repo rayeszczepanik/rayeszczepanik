@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**rayeszczepanik/rayeszczepanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hey, I'm rayeszczepanik 👋</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>Automation Engineering Student · Aspiring Software Engineer</samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🎓 Studying Automation Engineering Technology
+- 💻 Exploring software development & programming
+- 🌱 Learning, building, and improving along the way
+
+<p align="center">
+  <i>Keep learning. Keep building.</i>
+</p>
